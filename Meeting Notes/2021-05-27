@@ -1,0 +1,57 @@
+# 2021-05-27 Meeting Notes
+
+## Attendees
+- Antonis Papatsaras
+- Jerome Simeon
+- Jolene Langlinais
+- Martin Halford
+- Niall Roche
+
+## Apologies
+- Tom Brooke
+- Dan Selman
+- Peter Hunn
+
+## Agenda
+
+### Minutes of Previous Meeting
+
+Minutes of previous meeting noted - no discussion.
+
+### Review of Open Issues
+
+##### Google Summer of Code [Issue #16](https://github.com/accordproject/technical-steering-committee/issues/16)
+- Has kicked off and number of mentor / student meetings held.
+- Some administrative questions regarding mentor payments from Google. 
+- Suggested Clause.io collect GSoC mentor payments on behalf of the Accord Project.
+
+##### Inviting People to Slack [Issue #18](https://github.com/accordproject/technical-steering-committee/issues/18)
+- No possibility of receiving free upgrade from Slack. All avenues exhausted.
+- No further details regarding Orbit.
+- Need a "champion" to do the work of migrating from Slack to Discord or Orbit or some other platform.
+- At the moment, with GSoC etc. taking time, decision to postpone decision until a future meeting.
+
+
+##### Linux Foundation Directed Fund Participation (renamed from "Sponsorship Packages") [Issue #19](https://github.com/accordproject/technical-steering-committee/issues/19)
+- Following on from the [2021-05-20 Exceptional TSC Meeting](https://github.com/accordproject/technical-steering-committee/blob/master/Meeting%20Notes/2021-04-29.md), all TSC Members expressed approval to proceed with executing the "Directed Fund Participation Agreement" under the Linux Foundation.
+- @martinhalford commented that it should not be the Accord Project's role to police Accord Project Member's Linux Foundation Membership.
+- **MOTION**
+To execute the "Directed Fund Participation Agreement" under the Linux Foundation.
+**CARRIED UNANIMOUSLY** by TSC Members on call + Tom Brooke in absentia
+- TSC delegated Tom Brooke to initiate signing of agreement with the Linux Foundation. (Thanks Tom!)
+
+
+##### Password Management [Issue #22](https://github.com/accordproject/technical-steering-committee/issues/22)
+- On hold while Peter on leave.
+- **ACTION** 
+	- Peter Hunn to provide Jerome with 1Password access.
+
+##### Make the Marketing Web Site Open Source [Issue #28](https://github.com/accordproject/technical-steering-committee/issues/28)
+- On hold while Peter on leave.
+- **ACTION** 
+	- Peter to chase legal clarifications and report accordingly.
+- Once ownership is confirmed then relatively easy process to migrate code to AP GitHub repo.
+
+### Next TSC Meeting
+ 
+- The next TSC Meeting will be Thursday 24 June 2021.
