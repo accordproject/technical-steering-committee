@@ -7,3 +7,10 @@ See the [Calendar of Public Meetings](https://calendar.google.com/calendar/embed
 The agendas will be posted on [Slack](https://accord-project-slack-signup.herokuapp.com/) and recordings will be posted to the [Accord Project Vimeo channel](https://vimeo.com/accordproject).
 ### Meeting Notes
 Please see [Meeting Notes](https://github.com/accordproject/technical-steering-committee/blob/master/Meeting%20Notes).
+### Technical Steering Committee Members
+- [Antonis Papatsaras](https://github.com/anton1s)
+- [Jerome Simeon](https://github.com/jeromesimeon)
+- [Jolene Langlinais](https://github.com/irmerk)
+- [Martin Halford (Chair)](https://github.com/martinhalford)
+- [Niall Roche](https://github.com/niallroche)
+- [Tom Brooke](https://github.com/tbrooke)
