@@ -1,0 +1,88 @@
+# 2021-10-28 Meeting Notes
+
+## Attendees
+- Antonis Papatsaras
+- Dan Selman
+- Jolene Langlinais
+- Martin Halford
+- Niall Roche
+- Tom Brooke
+
+## Apologies
+- Jerome Simeon
+
+## Agenda
+
+### Minutes of Previous Meeting
+
+Minutes of previous meeting noted - no discussion.
+
+### Review of Open Issues
+
+##### Standardise approach to static site hosting [Issue #5](https://github.com/accordproject/technical-steering-committee/issues/5)
+- No update since last meeting. Actions remain outstanding.
+- **ACTIONS** 
+	- Martin to liaise with Jerome and Matt to consider:
+		- Netlify
+		- Heroku
+		- AWS
+		- ???
+
+##### Incubation process for new projects [Issue #12](https://github.com/accordproject/technical-steering-committee/issues/12)
+- No update since last meeting. Actions remain outstanding.
+- **ACTIONS** 
+	- Martin to follow-up as accord-qldb-lambda project progresses.
+
+##### Identity management and digital certs [Issue #13](https://github.com/accordproject/technical-steering-committee/issues/13)
+- Recent release of Cicero now incorporates signing of templates.
+- Work still ongoing with SLC file format, which includes digital signing. Martin to update at next TSC meeting.
+- Use case based on NFTs still progressing. Niall to update at next TSC meeting.
+- @Dan highlighted work by W3C Decentralized Identifier (DID) specification.  Webinar on 03-November with title "Why The Web Needs Decentralized Identifiers (DIDs)—Even if Google, Apple, and Mozilla Object." [https://www.evernym.com/dids-webinar/](https://www.evernym.com/dids-webinar/) 
+
+##### Document format for Accord Project contracts [Issue #14](https://github.com/accordproject/technical-steering-committee/issues/14)
+- Sanket works continues. Have incorporated `State` and `History` into format.
+- Updates to follow.
+
+##### OneDNA Membership [Issue #21](https://github.com/accordproject/technical-steering-committee/issues/21)
+- Jerome has created a Cicero template for the OneNDA agreement. 
+- Technically no more work to do (at this stage).
+- However, would be good to promote this initiative and partnership between Accord Project and OneNDA.
+- **ACTION** 
+	- Tom to reach out to OneNDA to arrange a joint blog post, or similar.
+
+##### Password Management [Issue #22](https://github.com/accordproject/technical-steering-committee/issues/22)
+- No change since last meeting.
+- **ACTION** 
+	- Pending Peter Hunn and Jerome to liase.
+	
+##### Make the Marketing Web Site Open Source [Issue #28](https://github.com/accordproject/technical-steering-committee/issues/28)
+- No change since last meeting.
+- **ACTION** 
+	- Jerome to migrate code to AP GitHub repo.
+
+##### Accord Project Facebook & LinkedIn Pages [Issue #29](https://github.com/accordproject/technical-steering-committee/issues/29)
+- No change since last meeting.
+- **ACTION** 
+	- Pending - once Password Management Issue [Issue #22](https://github.com/accordproject/technical-steering-committee/issues/22) resolved then will be able to move on this issue too.
+
+##### Update AP web site re: Membership [Issue #30](https://github.com/accordproject/technical-steering-committee/issues/30)
+- Updates completed by Michael.
+- Issue closed.
+
+##### Linux Foundation Directed Fund Participation [Issue #19](https://github.com/accordproject/technical-steering-committee/issues/19)
+- Discussed "Sponsorship Packages".
+- Sponsorship document at: [https://docs.google.com/document/d/19eePzfYZYMDYoXNA6WCRmSkiV-BWXPD5JWyxZdXvQuE/edit#heading=h.2fk39zpebxf5](https://docs.google.com/document/d/19eePzfYZYMDYoXNA6WCRmSkiV-BWXPD5JWyxZdXvQuE/edit#heading=h.2fk39zpebxf5)
+- Decided to publish above document to Accord Project community for feedback.
+- Then, depending on Accord Project community feedback, publish Sponsorship packages to AP web ste.
+- **ACTIONS** 
+	- Martin to present Sponsorship document at next Tech WG call and request community feedback.
+	- Depending on Accord Project community feedback, Dan offerred to help publish this to AP web site.
+
+##### Proposal: Adding support for 'questionnaires' to Accord Project [Issue #31](https://github.com/accordproject/technical-steering-committee/issues/31)
+- Raised by Oliver Tod.
+- To be discussed at Tech WG level.
+- No actions at this time.
+
+### Next TSC Meeting
+ 
+- The next TSC Meeting will be Thursday 02 December 2021 - in lieu of Thanksgiving in US.
