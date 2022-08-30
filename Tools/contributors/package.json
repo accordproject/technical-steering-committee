@@ -1,0 +1,17 @@
+{
+  "name": "@accordproject/contributors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p .",
+    "watch": "npm run build -- -w",
+    "start": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/watch": "^1.0.3",
+    "ts-node": "^10.9.1"
+  }
+}
