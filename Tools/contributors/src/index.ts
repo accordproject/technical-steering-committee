@@ -36,7 +36,7 @@ async function writeContributorsToCsv() {
   const promises = repos.map(repo => getRepoContributors(repo.name));
   const results = await Promise.all(promises);
   const names = results.flatMap( r => r.map(c => c.author.login));
-  const uniq = [...new Set(names)];
+  const uniq = [...new Set(names.sort())];
   const lines = uniq.map( githubId => `github,${githubId}`);
   fs.writeFileSync("contributors.csv", lines.join('\n'));
   console.log('Created file contributors.csv.');
