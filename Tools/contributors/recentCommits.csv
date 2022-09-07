@@ -1,0 +1,7 @@
+accordproject/cicero,chore(actions): publish v0.23.0 to npm (#737),github-actions[bot],https://github.com/accordproject/cicero/commit/c626bf9f4a0074addef34efeccb2202ade39f43c
+accordproject/concerto,chore(*): improve code coverage (#510),mttrbrts,https://github.com/accordproject/concerto/commit/2c83115a7ff2420a34402ad83c8ab2dd407c4d96
+accordproject/concerto,feat(*): align with concerto-dotnet changes (#511),sstone1,https://github.com/accordproject/concerto/commit/df10d15d26917a14b94f0a970b9f3436380f3117
+accordproject/concerto,test(cto): improve code coverage (#505),mttrbrts,https://github.com/accordproject/concerto/commit/4999e75abb877b585922d514f397938564edffb9
+accordproject/concerto,BREAKING CHANGE(cto): change syntax of ImportTypes statements (#508),mttrbrts,https://github.com/accordproject/concerto/commit/b59141dfd886d0bcddfd24ffb28717181a31d34a
+accordproject/concerto,feat(*): add type attributes to generated c# (#506),sstone1,https://github.com/accordproject/concerto/commit/98fac38f9139cc7ee0ed192e1785587d2bc9ec92
+accordproject/concerto,fix(core): fix wildcard import parsing, import hygiene (#504),mttrbrts,https://github.com/accordproject/concerto/commit/53c844cd86c22536e447f4591e825e4dbf0cb457
