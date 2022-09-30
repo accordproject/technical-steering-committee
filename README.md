@@ -6,11 +6,13 @@ See the [Calendar of Public Meetings](https://calendar.google.com/calendar/embed
 ### Meeting Agendas
 The agendas will be posted on [Discord](https://discord.gg/UwXwVENv) and recordings will be posted to the [Accord Project Vimeo channel](https://vimeo.com/accordproject).
 ### Meeting Notes
-Please see [Meeting Notes](https://github.com/accordproject/technical-steering-committee/blob/master/Meeting%20Notes).
+Meeting notes are tracked as comments on [issues](https://github.com/accordproject/technical-steering-committee/issues) in this repository
+
 ### Technical Steering Committee Members
-- [Antonis Papatsaras](https://github.com/anton1s)
-- [Jerome Simeon](https://github.com/jeromesimeon)
-- [Jolene Langlinais](https://github.com/irmerk)
-- [Martin Halford (Chair)](https://github.com/martinhalford)
-- [Niall Roche](https://github.com/niallroche)
-- [Tom Brooke](https://github.com/tbrooke)
+
+- [Tom Brooke](https://github.com/tbrooke) - Brooke and Sons LLC
+- [Martin Halford](https://github.com/martinhalford) - beNEXT
+- [Diana Lease](https://github.com/dianalease) - DocuSign
+- [Matt Roberts](https://github.com/mttrbrts) (Chair) - DocuSign
+- [Niall Roche](https://github.com/niallroche) - University College London
+- [Dan Selman](https://github.com/dselman) - DocuSign
