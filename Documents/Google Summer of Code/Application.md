@@ -18,13 +18,13 @@ New contributors, new features completed, more code written, better being able t
 `Number`
 
 #### How will you keep mentors engaged with their students?
-Regular calls, Slack, opportunities for demos to the OS community throughout the duration of the summer. We will make sure to solidify a plan with the student(s) first thing in regard to communication, and see what works best for both parties.
+Regular calls, Discord, opportunities for demos to the OS community throughout the duration of the summer. We will make sure to solidify a plan with the student(s) first thing in regard to communication, and see what works best for both parties.
 
 #### How will you help your students stay on schedule to complete their projects?
 Depending on the student(s) and the project, we will jointly decide between daily and weekly reports and check-ins.
 
 #### How will you get your students involved in your community during GSoC?
-The Accord Project holds weekly technical calls for maintainers and for the user community. There is an active Slack organization with multiple channels. These channels  are open and the student(s) are strongly encouraged to participate in such activities to have opportunity to discuss with the rest of the community.
+The Accord Project holds weekly technical calls for maintainers and for the user community. There is an active Discord organization with multiple channels. These channels  are open and the student(s) are strongly encouraged to participate in such activities to have opportunity to discuss with the rest of the community.
 
 #### How will you keep students involved with your community after GSoC?
 The Accord Project welcomes all OSS contributions on an ongoing basis. The student(s), if interested, will have opportunities to keep collaborating or contributing after GSoC. The student(s) will have the possibility to attend other Accord Project events (forum, and meetups). This is all in addition to the aforementioned weekly technical calls which the student(s) will be encouraged to participate in.
@@ -95,7 +95,7 @@ new feature, optimization
 ### Contact Methods
 
 #### Chat:
-https://accord-project-slack-signup.herokuapp.com/
+https://discord.gg/Zm99SKhhtA
 
 #### Mailing List:
 N/A
